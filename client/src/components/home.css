@@ -1,0 +1,15 @@
+.contenedor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 20px;
+   
+  }
+  .fondo{
+    background-image:url('https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gettyimages-1655979217.jpg?crop=0.446xw:1.00xh;0.409xw,0&resize=480:*') ;
+  }
+  .titulo{
+    font-family: fantasy;
+    font-size: large;
+  }

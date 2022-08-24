@@ -1,0 +1,26 @@
+
+.global{
+    display:block;    
+    background-image:url('https://comoperrosalchicha.com/wp-content/uploads/2019/11/NOMBRE-DE-PERROS.png') ;
+    background-size:cover;
+    min-height: 100vh; 
+    min-width: 100vh;  
+    color: rgb(244, 246, 247);
+    font-family:monospace;
+    font-size: 20px;
+    padding-top: 100px;
+
+}
+.but{
+    height: 40px;
+    margin: 110px;
+    margin-top: 10px;
+    border-radius: 10px;
+    border-color: teal;
+    color: #ffffff;
+    cursor: pointer;
+    padding: 10px;
+    background-color: transparent;
+    font-size: 1rem;
+    transition: box-shadow 0.2s ease-in-out;
+}

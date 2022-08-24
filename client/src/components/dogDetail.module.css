@@ -1,0 +1,29 @@
+.hola{
+background-color: rgb(107, 95, 95);
+width: 400px;
+border:4px solid rgb(0, 0, 0);
+border-radius: 30px;
+width: 500px;
+}
+.contenedor{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 15px;
+   
+}
+.btn{
+    width: 200px;
+    background-color: rgb(244, 239, 239);
+    
+
+}
+.titulo{
+    font-family:'Courier New', Courier, monospace;
+    background-color: brown;
+}
+.todo{
+    background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgCszCzlYjv9N5v7Q7mZZbVKTjS9he2VyWsg&usqp=CAU') ;
+  
+}
